@@ -7,5 +7,6 @@ namespace Trabalho.Models
 {
     public class Carro
     {
+        public int id { get; set; }
     }
 }
